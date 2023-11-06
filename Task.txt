@@ -17,7 +17,7 @@ Window Object:
 
 It represent a browser window or fram that displays the contents of the web page.
 It is loads very first object loaded in the browser.
-Its the object of browser property.
+Its the object of browser property
 Global object, Function and variable of javascript are menber of the window object.
 We can Access the windoe from window only by using window.window
 Window id the part of Browser object model not a Document object model.
